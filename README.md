@@ -13,12 +13,16 @@ change connectionstring in Core and Api
 
 To create database
 open Package Manager console having Core selected
-update-database 
+update-database -v
 
 
 # FrontEnd configuration
 
 change AppDemo.WebUI\src\public\config.json accordingly
 
-Read readme in WebUI folder:
+npm install
+npm start
+head to http://localhost:38000
+
+Read readme in WebUI folder for more info about webpack template
 
