@@ -21,7 +21,9 @@ update-database -v
 change AppDemo.WebUI\src\public\config.json accordingly
 
 npm install
+
 npm start
+
 head to http://localhost:38000
 
 Read readme in WebUI folder for more info about webpack template
