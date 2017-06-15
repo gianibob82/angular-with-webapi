@@ -1,3 +1,5 @@
+
+
 # angular-with-webapi
 
 I made this demo project for all developers who want to learn Angular using WebPack and ES6.
@@ -35,3 +37,4 @@ npm run build
 
 Read readme in WebUI folder for more info about webpack template
 
+trigger build
